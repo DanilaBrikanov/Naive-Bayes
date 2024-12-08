@@ -1,0 +1,1 @@
+This repository presents an implementation of the naive Bays algorithm.
